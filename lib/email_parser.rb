@@ -13,6 +13,5 @@ class EmailAddressParser
 
   def parse
     @email_addresses = email_addresses.scan("/[,\s]/")
-    binding.pry
   end
 end
