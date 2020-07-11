@@ -6,7 +6,7 @@ require 'pry'
 
 class EmailAddressParser
 
-  def initialize(emails)
+  def initialize(email_addresses)
 
   end
 
